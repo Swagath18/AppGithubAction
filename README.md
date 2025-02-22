@@ -1,2 +1,2 @@
 ## Python Application with CI/CD Using GitHub Actions
-This repository demonstrates the implementation of a simple Continuous Integration (CI) pipeline for a Python application using GitHub Actions. The project includes a basic Python application, unit tests, and an automated workflow to ensure code quality and functionality.
+This repository demonstrates the implementation of a simple Continuous Integration (CI) pipeline for a Python application using GitHub Actions. The project includes a basic Python application, unit tests for math operations, and an automated workflow to ensure code quality and functionality.
